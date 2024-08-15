@@ -1,39 +1,22 @@
-# Day-21-Beautiful-Pricing-Table
+# Pricing Table Website
+Embarking on the journey to enhance your web development skills through hands-on projects is an exciting and rewarding experience. This approach not only solidifies your understanding of fundamental concepts but also exposes you to real-world challenges and problem-solving scenarios. By engaging in a variety of projects, from simple static websites to complex, dynamic web applications, you will gain practical experience in HTML, CSS, JavaScript, and backend technologies. Each project serves as a stepping stone, building your confidence and competence in coding, design, and user experience.
 
-Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
-
-Live Demo - https://quantumcoding123.github.io/Day-21-Beautiful-Pricing-Table/collapsible-menu/index.html
+Live Demo - https://newworldera.github.io/PricingTableWebsite/
 
 # Join Us
+GitHub-https://github.com/newworldera
 
-GitHub-https://github.com/QuantumCoding123
+YouTube-https://www.youtube.com/channel/UCOQjw35DxJYhiP8d_m8dTmQ
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+Instagram - https://instagram.com/new_world_era_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
 
-Instagram - https://www.instagram.com/quantumcoding123
+Telegram-https://t.me/+t73Q26ORYWRkYWQ1
 
-Telegram - https://t.me/QuantumCoding123
+Whatsapp- https://whatsapp.com/channel/0029VafLdr6EawdzpspHgb0O
 
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
-
-With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
-
-Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
-
-# Output - 1
-
-![Screenshot (87)](https://github.com/QuantumCoding123/Day-21-Beautiful-Pricing-Table/assets/166281221/f7b1a485-6d21-47af-adbe-762add3856d8)
+# Output 1
+![Screenshot 2024-08-16 043951](https://github.com/user-attachments/assets/e7030ce3-798e-438e-b366-4495d79537e4)
 
 
-# Output - 2
-
-![Screenshot (88)](https://github.com/QuantumCoding123/Day-21-Beautiful-Pricing-Table/assets/166281221/37d27c02-c5a4-45f3-b532-e501326f7dd6)
-
-
-# Output - 3
-
-![Screenshot (89)](https://github.com/QuantumCoding123/Day-21-Beautiful-Pricing-Table/assets/166281221/79ee8f57-e4db-46cf-9cb9-8a1706b96430)
-
-
-
-
+# Output 2
+![Screenshot 2024-08-16 044006](https://github.com/user-attachments/assets/d29e1f26-65bc-4a12-85ac-98cfcd9f08d9)
